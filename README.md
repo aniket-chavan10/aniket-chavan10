@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @aniket-chavan10
-- 👀 I’m interested in full-stack web development, particularly using the MERN stack.
-- 🌱 I’m currently learning more advanced topics in the MERN stack to enhance my skills.
-- 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
-- 📫 How to reach me: aniket.chavan1@zohomail.in
-- ⚡ Fun fact: I'm a huge cricket enthusiast and love incorporating my passion for sports into my tech projects.
-
-<!---
-aniket-chavan10/aniket-chavan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate Software Developer | Specialist in Real-time Applications & Live Cricket Scoring Platforms | Skilled in Node.js, React, Redis & SQL Server | Building seamless, scalable solutions | Always learning and innovating
